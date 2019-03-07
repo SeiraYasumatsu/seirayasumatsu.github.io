@@ -1,18 +1,18 @@
 header{
   background: url(../images/background.jpg) center / cover;
-  height: 60vh;
+  height: 70vh;
   justify-content: center;
   text-align: center;
 }
 
 h1{
-  color: hsla(0, 0%, 100%, 0.9);
+  color: hsla(0, 0%, 20%, 0.9);
   font-weight: bold;
 }
 
 .slogan{
-  color: hsla(0, 0%, 100%, 0.7);
-  font weight: lighter;
+  color: hsla(0, 0%, 0%, 0.7);
+  font weight:lighter;
   font-size: 1.2rem;
 }
 
@@ -38,7 +38,7 @@ footer.mdl-mini-footer{
 
 footer.mdl-mini-footer > ul{
   margin: auto;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 @media screen and (max-width: 1024px){
